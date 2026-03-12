@@ -185,6 +185,7 @@ full-stack web applications using Rust.
   Leptos (of course.)
 - [benw.is](http://benw.is) benwis's personal blog, built with Leptos SSR,
   storage in Sqlite, and compiled to Spin!
+- [https://exodata.space] Interactive catalog for exploring NASA Exoplanet Archive data - built with Leptos SSR, Axum, and Polars
 - [Itehax's blog](https://itehax.com) Markdown blog written using Leptos(with
   server side rendering) and styled using Preline (component library for
   tailwindcss) ([source](https://github.com/itehax/rust-blog))
